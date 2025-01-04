@@ -1,2 +1,2 @@
 # Myntra-clone
-i make myntra homepage clone
+ myntra home page clone by hammad tahir
